@@ -4,12 +4,12 @@
   "x": 988,
   "y": 572,
   "image": [
-	  "GGGGGGGGGGGGGGGGGGGGGGGGG",
-	  "GGGG#G#GG##GGGGGGGGGGGGGG",
-	  "G##GG#G#GG#GGGGGGGGGGGGGG",
-	  "G#G#G#G#GG###GGGGGGGGGGGG",
-	  "G##GGGG##GGGGGGGGGGGGGGGG",
-	  "GGGGGGGGGGGGGGGGGGGGGGGGG",
+	  "GGGGGGGGGGGGG",
+	  "GGGG#G#GG##GG",
+	  "G##GG#G#GG#GG",
+	  "G#G#G#G#GG###",
+	  "G##GGGG##GGGG",
+	  "GGGGGGGGGGGGG",
 	  
   ],
   "colors": {
